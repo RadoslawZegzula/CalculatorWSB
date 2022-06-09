@@ -33,5 +33,5 @@ Do przetestowania trzeba włączyć mikrofon w emulatorze oraz udzielić dostęp
 Aby uruchomić rozpoznawanie mowy:
 1. klkamy przycisk mikrofonu 
 2. mówimy 5+10 (five plus ten)
-3. klikamy przycisk mikrofonu
+
 
